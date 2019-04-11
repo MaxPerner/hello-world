@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "tm title",
+    "owner": "owner",
+    "description": "high lvl desc"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "reviewer"
+  }
+}
